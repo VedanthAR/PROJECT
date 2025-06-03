@@ -1,2 +1,0 @@
-printf("VEDANTH")
-printf("hi")
